@@ -61,15 +61,15 @@
 - Google Colab
 
 <h3>📁 Struktur Proyek</h3>
-├── index.ipynb
-├── data_inference.ipynb
-├── tokenizer.pkl
-├── eda_language_detection.png
-├── label_encoder.pkl
-├── cnn_model.h5
-├── text_vectorizer_vocab.txt
-├── text_vectorizer_config.json
-├── text_vectorization_config.json
+├── index.ipynb</br>
+├── data_inference.ipynb</br>
+├── tokenizer.pkl</br>
+├── eda_language_detection.png</br>
+├── label_encoder.pkl</br>
+├── cnn_model.h5</br>
+├── text_vectorizer_vocab.txt</br>
+├── text_vectorizer_config.json</br>
+├── text_vectorization_config.json</br>
 ├── automatic_language_detection.csv
 
 <h3>📈 Output yang Diharapkan</h3>
