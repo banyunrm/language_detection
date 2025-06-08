@@ -52,6 +52,7 @@
 <p>Sumber: Kaggle - Language Detection Dataset</p>
 
 <h3>🧰 Teknologi yang Digunakan</h3>
+
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras)
 
 - Natural Language Processing (NLP)
